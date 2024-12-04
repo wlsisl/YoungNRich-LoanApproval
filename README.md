@@ -6,9 +6,13 @@
 ## 😎 Team
 
 심재혁(팀장) : EDA & 데이터 생성 , 웹 애플리케이션 개발
+
 박지원 : EDA , flan-T5 fine tuning , 웹 애플리케이션 개발
+
 이소정 : EDA , flan-T5 fine tuning
+
 이혜원 : EDA & 데이터 생성 , Feature Engineering
+
 백지연 : EDA , 연관분석, Zero shot modeling(Reverse Inference)
 
 ---
