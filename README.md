@@ -13,7 +13,7 @@
 
 이혜원 : EDA & 데이터 생성 , Feature Engineering
 
-백지연 : EDA , 연관분석, Zero shot modeling(Reverse Inference)
+백지연 : EDA , 연관분석, Zero shot modeling(Reverse Inference), 웹 애플리케이션 개발
 
 ***
 
